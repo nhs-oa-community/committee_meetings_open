@@ -13,7 +13,8 @@
 
 
 
-###### **Committee meeting discussion and/or actions:** 
+## **Committee meeting discussion and/or actions:** 
+
 
 1. It is important for the NHS-Open Analytics Community Committee to find and agree a way to combine both the NHS-R Community and NHS Python Community whilst ensuring viability.  It was agreed that this will include, where possible, the continued hosting of workshops, webinars, training, hack-a-thons blogs and online resources such as code, books, training materials, etc. Some committee members volunteered to act as leads for elements of community work. There were as follows:
 - Daniel Weiand, Rosemary Walmsley and Janarth Duraisingham volunteered to assist with the co-ordination of training related activities.
