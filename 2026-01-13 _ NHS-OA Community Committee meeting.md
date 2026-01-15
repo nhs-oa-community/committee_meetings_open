@@ -28,7 +28,8 @@
 
    Final proposal: “A community for promoting open code and tools in Health and Care”
    
-4. Clear and concise attendance guidelines/criteria for workshops, webinars and Coffee and Code sessions are to be published on the NHS-R Way Book, sign-up forms and website. The exact criteria are to be reviewed and finalised separately to this committee meeting by Claire Welsh, Chris Beeley and Caileigh Solomenca.
+4. Clear and concise attendance guidelines/criteria for workshops, webinars and Coffee and Code sessions are to be published on the NHS-R Way Book (which will be renamed and updated in due course), sign-up forms and website. The exact criteria are to be reviewed and finalised separately to this committee meeting by Claire Welsh, Chris Beeley and Caileigh Solomenca.
+
    
 5. Claire Welsh requested assistance with the transfer of content and functionality from the current NHS-R Community website to the new NHS-Open Analytics Community website. Tom Jemmett and Sammi Rosser volunteered to help. 
    
